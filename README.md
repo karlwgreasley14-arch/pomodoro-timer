@@ -9,3 +9,5 @@ Developed in 2025.
 Update 6: initial skeleton
 
 > Update: maintenance: optimized asset loading (2025-12-27)
+
+> Update: fixed bug where UI would flicker on resize (2025-12-28)
